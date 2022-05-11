@@ -73,7 +73,7 @@ dependencies = [
 
 [[package]]
 name = "atomic-take"
-version = "1.0.0"
+version = "1.0.51"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "f9f65e4fb35ff6a80b3298d1f028649f3a23da141fa3951e9b24dde1d515b67e"
 
